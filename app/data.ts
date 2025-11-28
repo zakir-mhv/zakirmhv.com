@@ -28,7 +28,7 @@ type SocialLink = {
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    title: 'Senior Front-end Developer (Team Lead)',
+    title: 'Senior Front-end Developer (Tech Lead)',
     company: 'Cybernet LLC',
     start: 'September 2021',
     end: 'Present',
