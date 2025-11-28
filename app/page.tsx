@@ -134,7 +134,7 @@ export default function Personal() {
             I have over 5 years of hands-on experience developing and
             maintaining projects, from large-scale government tax automation
             systems to modern web platforms. My expertise includes JavaScript,
-            TypeScript, React, Next.js and other modern technologies, ensuring scalable
+            TypeScript, React, Next.js, and other modern technologies, ensuring scalable
             and efficient solutions.
           </p>
           <p className="mb-2 text-zinc-600 dark:text-zinc-400">
