@@ -34,7 +34,7 @@ export const WORK_EXPERIENCE: WorkExperience[] = [
     end: 'Present',
     location: 'Baku, Azerbaijan (On-site)',
     description:
-      'One of the largest and most complex web projects in Azerbaijan - the development of an Automated Taxation Information System for the State Tax Service of the Azerbaijani government. I have contributed to various major modules and, for over a year, have been leading the declaration module, enhancing its workflow and risk management processes.',
+      'One of the largest and most complex web projects in Azerbaijan - the development of the Automated Taxation Information System for the State Tax Service of the Azerbaijani government. I have contributed to various major modules and, for over two years, have been serving as the Front-end Tech Lead for the Declaration module and subsequently for the Audit module, enhancing its workflow and risk management processes.',
     id: 'work1',
   },
   {
